@@ -28,6 +28,12 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/exercice3">exercice3</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/exercice4">exercice4</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/exercice5">exercice5</a>
+                        </li>
                     </ul>
                 </div>
             </div>
