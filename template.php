@@ -40,6 +40,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/exercice7">exercice7</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/exercice8">exercice8</a>
+                        </li>
                     </ul>
                 </div>
             </div>
